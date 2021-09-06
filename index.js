@@ -6952,7 +6952,7 @@ ig.module("game.entities.game-control")
                 }
                 else {
                     if (ig.input.mouse.x >= 199 && ig.input.mouse.x <= 311) {
-                        if (ig.input.mouse.y >= 227 && ig.input.mouse.y <= 396) {
+                        if (ig.input.mouse.y >= 200 && ig.input.mouse.y <= 396) {
                             ig.input.mouse.x = 0;
                             ig.input.mouse.y = 0;
                             //this.isDragon2ndUnlock = 1;
